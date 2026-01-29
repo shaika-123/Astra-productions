@@ -2,6 +2,8 @@
 
 A modern, full-stack ticketing and events management platform built with cutting-edge web technologies. This repository showcases the frontend architecture, UI components, and client-side logic.
 
+### 🌐 **[Live Demo → astraproductions.in](https://astraproductions.in/)**
+
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=flat-square&logo=tailwind-css)
@@ -182,7 +184,9 @@ NEXT_PUBLIC_RAZORPAY_KEY_ID=your_razorpay_key
 
 | Home Page | Events | Tickets |
 |-----------|--------|---------|
-| Hero section with dynamic content | Event listings with filters | Digital ticket with QR |
+| ![Home](https://astraproductions.in/herosection/hero1.jpg) | Event listings with filters | Digital ticket with QR |
+
+> 🔗 **Visit [astraproductions.in](https://astraproductions.in/) to see the live application**
 
 ---
 
@@ -224,3 +228,4 @@ Full-Stack Developer
 <p align="center">
   <i>Built with ❤️ using Next.js, TypeScript, and Tailwind CSS</i>
 </p>
+
