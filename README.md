@@ -35,7 +35,50 @@
 
 **Astra Film Festival Platform** is a comprehensive entertainment ecosystem that handles everything from movie showcases to live event ticketing. Built with modern web technologies, it delivers a seamless user experience for discovering events, purchasing tickets, and managing digital passes.
 
-> **📌 Note:** This repository showcases the frontend architecture, UI components, and client-side implementation. Backend services and business logic are maintained in a private repository.
+> **📌 Note:** This repository showcases the frontend architecture, UI components, and client-side implementation. Backend services, API routes, and business logic are maintained in a private company repository.
+
+### 📂 What's Included in This Repository
+
+```
+✅ INCLUDED FILES:
+├── package.json (sanitized)
+├── tsconfig.json
+├── tailwind.config.ts
+├── postcss.config.js
+├── eslint.config.js
+├── components.json
+├── README.md
+├── .gitignore
+├── .env.example
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── providers.tsx
+│   ├── globals.css
+│   └── not-found.tsx
+├── src/
+│   ├── components/
+│   │   ├── ui/*          # 40+ Shadcn/UI components
+│   │   ├── layout/*      # Navbar, Footer, Layout
+│   │   ├── skeletons/*   # Loading states
+│   │   ├── home/*        # Homepage sections
+│   │   ├── NavLink.tsx
+│   │   └── ErrorBoundary.tsx
+│   ├── hooks/*           # Custom React hooks
+│   ├── types/
+│   │   ├── razorpay.ts
+│   │   ├── supabase.ts
+│   │   └── database.types.ts
+│   └── lib/
+│       ├── utils.ts
+│       ├── supabase/
+│       └── phoneValidation.ts
+└── public/
+    ├── robots.txt
+    └── assets/
+```
+
+> ⚠️ **Not Included:** Admin panel, API routes, database migrations, payment webhooks, and serverless functions are proprietary and maintained in a private company repository.
 
 ---
 
