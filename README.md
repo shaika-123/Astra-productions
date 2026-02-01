@@ -475,7 +475,7 @@ This project is for **demonstration and portfolio purposes**. The codebase showc
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**AFIFA SHAIK**  
 Full-Stack Developer | Building Digital Experiences
 
 <p align="left">
