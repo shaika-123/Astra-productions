@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🎬 Astra Film Festival Platform
+# 🎬 Astra Production Platform
 
 ### A Premium Movie & Events Ticketing Experience
 
