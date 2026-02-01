@@ -25,7 +25,6 @@
 
 ---
 
-<img src="https://astraproductions.in/herosection/hero1.jpg" alt="Astra Film Festival" width="100%" style="border-radius: 10px; margin-top: 20px"/>
 
 </div>
 
